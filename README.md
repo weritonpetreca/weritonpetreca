@@ -117,9 +117,6 @@ void deveRetornarContratoQuandoBuscarPorId() {
 ## 🧙 Formação / Forja dos Bruxos
 
 - **Análise e Desenvolvimento de Sistemas** – [UniFatecie (Em andamento)]
-- **Oracle Java SE** – Em andamento
-- **Spring Boot Specialist** – Em andamento
-- **Docker, AWS Cloud** – Em andamento
 
 ---
 
