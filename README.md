@@ -108,8 +108,8 @@ void deveRetornarContratoQuandoBuscarPorId() {
 ## 🐍 Snake das Contribuições
 
 <picture>
-  <source srcset="https://weritonpetreca.github.io/weritonpetreca/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://weritonpetreca.github.io/weritonpetreca/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <source srcset="https://raw.githubusercontent.com/weritonpetreca/weritonpetreca/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/weritonpetreca/weritonpetreca/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </picture>
 
 ---
