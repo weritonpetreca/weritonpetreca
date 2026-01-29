@@ -49,6 +49,7 @@ Olá! Sou **Weriton L. Petreca**, desenvolvedor backend Java, criador de conteú
 - API REST para operações bancárias mágicas  
 - Spring Boot, autenticação JWT
 - Documentação Swagger
+- https://github.com/weritonpetreca/vivaldi-bank
 
 ### 📊 Gerenciador de Contratos Witcher
 - CRUD para contratos de monstros
