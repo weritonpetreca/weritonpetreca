@@ -1,175 +1,129 @@
 <div align="center">
 
-# ⚔️ Weriton L. Petreca ⚔️
-### *Grandmaster Java Witcher & DevSecOps Guardian*
+<!-- Banner de Topo -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=180&section=header&text=Weriton%20L.%20Petreca&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&width=700&lines=Back-end+Java+Developer;DevSecOps+Mindset;AWS+Cloud+Practitioner;Protector+of+the+Code;Slayer+of+Bugs" alt="Typing SVG" />
+### **Desenvolvedor Back-End Java & Python | AWS Developer Associate | MongoDB Developer Associate**
+
+📍 Poços de Caldas - MG • ✉️ contato@weriton.dev
 
 <br/>
 
-[![Portfólio](https://img.shields.io/badge/📜_Portfólio-weriton.dev-2c2c2c?style=for-the-badge&logo=Google-Chrome&logoColor=d4af37)](https://weriton.dev)
-[![LinkedIn](https://img.shields.io/badge/🛡️_LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/weriton-petreca)
-[![Gmail](https://img.shields.io/badge/🦉_Email-Enviar_Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eulcfr@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535997231989)
+<!-- Links Principais -->
+[![Portfólio](https://img.shields.io/badge/Portfólio-weriton.dev-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://weriton.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Weriton_Petreca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/weriton-petreca)
+[![GitHub](https://img.shields.io/badge/GitHub-weritonpetreca-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/weritonpetreca)
+[![Credly](https://img.shields.io/badge/Credly-Certificações-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/weriton-petreca)
 
----
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📜 Lore do Personagem (Sobre Mim)
-
-> *"Monstros não nascem, eles são criados por código ruim e falta de testes."*
-
-Saudações, viajante! Sou um **Entusiasta do Back-end (Java)** especializado em conjurar sistemas robustos e proteger reinos digitais. Minha jornada começou na Engenharia Ambiental, mas o chamado do código me levou a trilhar o **Caminho do Bruxo (DevSecOps)**.
-
-Minha missão é caçar bugs, eliminar vulnerabilidades e garantir que a infraestrutura seja tão sólida quanto as muralhas de Kaer Morhen.
-
-### 🛡️ Atributos Base
-| Atributo |    Nível     | Descrição |
-| :--- |:------------:| :--- |
-| **Inteligência** |   🔥🔥🔥🔥   | Arquitetura de Software & Clean Code |
-| **Sabedoria** | 🛡️🛡️🛡️🛡️ | Segurança (DevSecOps) & Cloud |
-| **Carisma** |    ⭐⭐⭐⭐⭐     | Trabalho em Equipe & Comunicação |
-| **Constituição** |   ⚔️⚔️⚔️⚔️⚔️   | Resiliência & Resolução de Problemas |
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## ⚔️ Grimório de Combate (Estatísticas)
-
-*O registro das minhas batalhas e contribuições no vasto continente do GitHub.*
-
+<!-- Métricas Rápidas & Contador de Visitas -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/weritonpetreca?style=for-the-badge&logo=github&label=Seguidores&color=d4af37&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/stars/weritonpetreca?style=for-the-badge&logo=github&label=Stars&color=d4af37&labelColor=0d1117&affiliations=OWNER" />
-  <img src="https://komarev.com/ghpvc/?username=weritonpetreca&style=for-the-badge&color=d4af37&label=Visitantes" />
+  <img src="https://img.shields.io/github/followers/weritonpetreca?style=for-the-badge&logo=github&color=2563eb&labelColor=0f172a" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/weritonpetreca?style=for-the-badge&logo=github&color=2563eb&labelColor=0f172a&affiliations=OWNER" alt="Estrelas" />
+  <img src="https://komarev.com/ghpvc/?username=weritonpetreca&style=for-the-badge&color=2563eb&labelColor=0f172a&label=VISITAS" alt="Contador de Visitas" />
 </p>
 
-### 📊 Atividade no GitHub
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=19&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Java+21+%7C+Spring+Boot+3+%7C+Python+3.12;AWS+Developer+Associate+%7C+MongoDB+Java+Developer+Associate;Serverless+%7C+Step+Functions+%7C+Amazon+Bedrock+(IA);Microsservi%C3%A7os+%7C+Kafka+%7C+Docker+%7C+Terraform" alt="Typing SVG" />
+
+</div>
+
+---
+
+## ⚡ Sobre Mim
+
+Desenvolvedor Back-End especializado nos ecossistemas **Java (21)** e **Python**, focado na construção de **arquiteturas resilientes na AWS Cloud**, sistemas distribuídos de alta disponibilidade, soluções **Serverless & IA Generativa** e cultura **DevSecOps**.
+
+Certificado **AWS Developer Associate**, **MongoDB Java Developer Associate** e **AWS Cloud Practitioner**[cite: 1]. Possuo experiência com criação de APIs RESTful, pipelines de processamento inteligente de documentos (IDP), orquestração assíncrona orientada a eventos, conteinerização e modelagem SQL/NoSQL.
+
+- 🌐 **Idiomas:** Inglês Avançado (B2 - Fluência técnica e escrita profissional)
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UniFatecie) | Bacharel em Engenharia Ambiental (UNIFAL)
+
+---
+
+## 🏆 Certificações & Conquistas
+
+| Insígnia | Certificação / Conquista | Emissor | Data |
+| :---: | :--- | :---: | :---: |
+| <img src="https://img.shields.io/badge/AWS-Developer_Associate-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> | **AWS Certified Developer – Associate (DVA-C02)** | Amazon Web Services | Jul/2026 |
+| <img src="https://img.shields.io/badge/MongoDB-Java_Developer_Associate-47A248?style=flat-square&logo=mongodb&logoColor=white"/> | **MongoDB Java Developer Associate** | MongoDB | Jul/2026 |
+| <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> | **AWS Certified Cloud Practitioner (CLF-C02)** | Amazon Web Services | Dez/2025 |
+| 🥇 | **Vencedor Hack2Hire** (CrediFácil IDP) | Hack2Hire | Jun/2026 |
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weritonpetreca&theme=monokai" width="100%" />
+  <!-- Linguagens & Frameworks -->
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <br/>
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <br/>
+  <!-- Databases & Testing -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=weritonpetreca&theme=monokai" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=weritonpetreca&theme=monokai" width="49%" />
-</p>
-
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎒 Inventário (Tech Stack)
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### 🗡️ Armas Principais (Back-end)
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### 🔮 Artefatos Mágicos (Cloud & DevOps)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏆 Sala de Troféus (Certificações)
-
-|                                                                                            Insígnia                                                                                             | Título da Conquista | Efeito |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :--- | :--- |
-| [<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>](https://www.credly.com/badges/21197640-1e54-4350-92e7-d58bbbc46369) | **AWS Certified Cloud Practitioner** | +10 em Conhecimento de Nuvem |
-|                                                                                               🎯                                                                                                | **AWS Certified AI Practitioner** | *Quest em andamento...* |
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🗺️ Mapa de Aventuras (Projetos Destacados)
+## 💼 Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏰 [Vivaldi Bank Core](https://github.com/weritonpetreca/vivaldi-bank)
-**O Tesouro de Novigrad**
+### 🥇 [CrediFácil IDP](https://github.com/weritonpetreca)
+> **Vencedor do Hack2Hire**
 
-Sistema bancário de alta segurança com arquitetura hexagonal.
+Plataforma Serverless de Processamento Inteligente de Documentos para análise e scoring automatizado de crédito.
 
-**Stack:** Java 21 • Spring Security • AWS SQS • PostgreSQL
+**Tech Stack:** `Python 3.12` • `AWS Lambda` • `Step Functions` • `Amazon Bedrock` • `DynamoDB` • `Docker`
 
-**Destaques:**
-- ✅ Arquitetura Hexagonal
-- ✅ Segurança em camadas
-- ✅ Mensageria assíncrona
+- 🔄 Pipeline serverless orquestrado por AWS Step Functions e engatilhado por eventos S3.
+- 🧠 Extração e validação de documentos via LLMs (**Amazon Bedrock / Amazon Nova**).
+- 📊 Persistência no DynamoDB e geração de relatórios sintéticos em Excel/JSON.
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Petreca Delivery](https://github.com/weritonpetreca/petrecadelivery)
-**Rotas de Comércio**
+### 📦 [PetrecaDelivery](https://github.com/weritonpetreca/petrecadelivery)
+> **Arquitetura de Microsserviços & Event-Driven**
 
-Plataforma de logística distribuída com microserviços.
+Plataforma de logística distribuída projetada para alta escalabilidade e tolerância a falhas.
 
-**Stack:** Spring Boot • Kafka • Circuit Breaker • Docker
+**Tech Stack:** `Java 21` • `Spring Boot` • `Spring Cloud` • `Apache Kafka` • `Docker` • `PostgreSQL`
 
-**Destaques:**
-- ✅ Microserviços resilientes
-- ✅ Event-driven architecture
-- ✅ Tolerância a falhas
+- 🎯 Arquitetura baseada em **DDD** garantindo alta coesão e baixo acoplamento.
+- 🛡️ API Gateway com Spring Cloud e padrão **Circuit Breaker** para resiliência.
+- ⚡ Mensageria assíncrona com Apache Kafka.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 📚 [Already Read That](https://github.com/weritonpetreca/already-read-that)
-**A Biblioteca de Oxenfurt**
+### 🏛️ [Vivaldi Bank Core](https://github.com/weritonpetreca/vivaldi-bank)
+> **Core Bancário com Compliance Arquitetural**
 
-Catálogo de conhecimento gamificado com TDD.
+Simulação de sistema bancário focado em alta disponibilidade, segurança rigorosa e isolamento de domínio.
 
-**Stack:** Java • JUnit 5 • Angular • PostgreSQL
+**Tech Stack:** `Java 21` • `Spring Boot 3` • `Spring Security (JWT)` • `Terraform` • `AWS SQS` • `Prometheus & Grafana`
 
-**Destaques:**
-- ✅ 100% cobertura de testes
-- ✅ Clean Code
-- ✅ Gamificação
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **Próxima Quest**
-
-*Em desenvolvimento...*
-
-Sistema de monitoramento DevSecOps com integração AWS.
-
-**Stack:** Terraform • AWS • GitHub Actions
-
-**Objetivo:**
-- 🔄 IaC completo
-- 🔄 Pipeline CI/CD
-- 🔄 Security scanning
+- 📐 **Arquitetura Hexagonal estrita** isolando o domínio, com testes automatizados de compliance via **ArchUnit**.
+- ☁️ Infraestrutura provisionada como código (**Terraform**) e comunicação assíncrona via **AWS SQS**.
+- 📈 Observabilidade completa com Prometheus e Grafana, mais qualidade de código analisada via Qodana.
 
 </td>
 </tr>
@@ -177,23 +131,47 @@ Sistema de monitoramento DevSecOps com integração AWS.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🎯 Princípios & Mentalidade de Engenharia
 
-## 🐉 A Besta do Código (Contribuições)
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
 
+### 🛡️ DevSecOps & Segurança
+- **Shift-Left Security:** Análise estática e validação contínua no pipeline CI/CD.
+- **Access & Identity:** Gestão estrita de permissões (AWS IAM), autenticação JWT e conformidade OWASP.
+
+</td>
+<td width="33%" valign="top">
+
+### 📐 Arquitetura & Design
+- **Isolamento de Domínio:** Aplicação de Arquitetura Hexagonal, Clean Code, DDD e SOLID.
+- **Architecture as Code:** Validação automatizada de limites e regras de dependência via **ArchUnit**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 Qualidade & Resiliência
+- **TDD & Testes:** Cobertura abrangente com JUnit 5, Pytest e Mockito.
+- **Sistemas Distribuídos:** Testes de integração conteinerizados com **Testcontainers** e tratamento de falhas com Circuit Breaker.
+
+</td>
+</tr>
+</table>
+
+---
+  
+### 🐍 Contribuições no GitHub
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weritonpetreca/weritonpetreca/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weritonpetreca/weritonpetreca/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/weritonpetreca/weritonpetreca/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=18&duration=3000&pause=1000&color=d4af37&center=true&vCenter=true&width=600&lines=%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+O+c%C3%B3digo+%C3%A9+como+uma+espada;Se+n%C3%A3o+for+afiado+(refatorado)%2C+enferruja;%E2%9A%94%EF%B8%8F+Sempre+em+busca+da+excel%C3%AAncia" alt="Footer Quote" />
-</p>
+📬 **Vamos conversar?** Entre em contato pelo [LinkedIn](https://linkedin.com/in/weriton-petreca) ou por e-mail em [contato@weriton.dev](mailto:contato@weriton.dev).
 
 </div>
